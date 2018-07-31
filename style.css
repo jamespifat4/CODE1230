@@ -27,13 +27,13 @@ font-size:18px;
 .topnav {
 position:fixed;
   top:0;
-  background-color: #DDDDDD;
+  background-color: #FFFFFF;
 }
 
 .topnav a {
 float: left;
   display: block;
-  color: #FFFFFF;
+  color: #001f3f;
   text-align: center;
   padding: 14px 16px;
   text-decoration:none;
